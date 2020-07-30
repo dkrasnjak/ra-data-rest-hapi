@@ -11,7 +11,7 @@
     "authors": [
         "Maciej Krüger"
     ],
-    "repository": "mkg20001/ra-data-rest-hapi",
+    "repository": "dkrasnjak/ra-data-rest-hapi",
     "homepage": "https://github.com/mkg20001/ra-data-rest-hapi#readme",
     "bugs": "https://github.com/mkg20001/ra-data-rest-hapi/issues",
     "license": "MIT",
